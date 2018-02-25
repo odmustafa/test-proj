@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/odmustafa/test-proj#readme",
   "dependencies": {
+    "firebase": "^4.10.1",
     "firebase-admin": "^5.9.0"
   }
 }
