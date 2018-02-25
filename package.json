@@ -1,0 +1,26 @@
+{
+  "name": "test-proj",
+  "version": "1.0.0",
+  "description": "testing firebase database code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/odmustafa/test-proj.git"
+  },
+  "keywords": [
+    "firebase",
+    "nodejs",
+    "leftrightmusic",
+    "database",
+    "firestore"
+  ],
+  "author": "Omar Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odmustafa/test-proj/issues"
+  },
+  "homepage": "https://github.com/odmustafa/test-proj#readme"
+}
