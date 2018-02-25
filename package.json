@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/odmustafa/test-proj/issues"
   },
-  "homepage": "https://github.com/odmustafa/test-proj#readme"
+  "homepage": "https://github.com/odmustafa/test-proj#readme",
+  "dependencies": {
+    "firebase-admin": "^5.9.0"
+  }
 }
